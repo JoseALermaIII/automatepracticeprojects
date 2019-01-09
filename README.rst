@@ -8,7 +8,9 @@ I totally got these from my `python-tutorials`_ repo (yay MIT License?), but the
 Bonus content includes Google style docstrings (such wow), main functions (so standard), a requirements.txt file (so
 helpful), and test files (**not** punny at all).
 
-.. Note::Chapter 18 has two missing projects: *Instant Messenger Bot* and *Game-Playing Bot Tutorial*.
+.. Note::
+
+    Chapter 18 has two missing projects: *Instant Messenger Bot* and *Game-Playing Bot Tutorial*.
 
     For *Instant Messenger Bot*, I want to use Empathy on Ubuntu because it is the default IMing program. The only
     protocol I'm willing to make test accounts for is ICQ (because who uses ICQ?), but ICQ now requires a valid phone
